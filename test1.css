@@ -1,0 +1,52 @@
+body{
+
+
+font-size: 15px;
+
+}
+.all{
+  margin: 20px;
+}
+body{
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif;
+
+}
+.right{
+  text-align: right;
+}
+.centre{
+  text-align: center;
+}
+footer{
+  text-align: center;
+
+}
+a{
+  color: #fe9801;
+}
+.foot{
+  margin-left: 200px;
+}
+.create{
+
+  background-color:#0c9463;
+  height: 60px;
+  width: 180px;
+  color: white;
+  border-radius: 10px;
+}
+.orange{
+  color: #fe9801;
+}
+.box{
+  width : 300px;
+  height: 30px;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+  border-bottom: solid ;
+  border-width: thin;
+  background-color: #f4f4f4
+
+}
